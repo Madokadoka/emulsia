@@ -82,8 +82,8 @@ margin: 0 auto 206px;
     height: 1129px;
 padding-top: 128px;
 padding-bottom: 271px;
-background: url(/images/buildings__white_3165.png) center bottom repeat-x,
-            url(/images/buildings__black_3164.png) center bottom repeat-x
+background: url(images/buildings__white_3165.png) center bottom repeat-x,
+            url(images/buildings__black_3164.png) center bottom repeat-x
             #1d1d1d;
 background-size: contain, contain;
 }
